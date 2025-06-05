@@ -1,5 +1,4 @@
 //DisplayItem.tsx
-// DisplayItem.tsx
 import React, { useState, useEffect, useRef } from 'react';
 import { Modal, View, Image, Text, TouchableOpacity, StyleSheet, Dimensions } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
